@@ -8,4 +8,4 @@ Multiple colab / python notebooks.
 - "pick scatter points" notebook allows you the pick out growth iterations to plot; compute the sensitivity of the gaussian process surrogate model (through Jacobian singular value decomposition); and plots the gaussian process mean, variance, and acqusition function for each sample growth
 ---> this notebook gives multiple methods to compute the sensitivity and multiple visualizations
 
-** If you want to recreate plots, download excel files that match the name in the script, and then create a path to the file.
+** If you want to recreate plots, download notebooks and the excel files that match the name in the notebooks, and then create a path to the file.
